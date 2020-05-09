@@ -7,23 +7,18 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   posts = [
+    
     {
-      title: 'Neat Tree',
-      imageUrl: 'assets/tree.jpg',
-      username: '@nature',
-      content: ' yeaaaaaah I saww this neat tree'
+      title: 'Lulianna Lewandowska (wysoka)',
+      imageUrl: 'assets/2.jpg',
+      username: '@znana jako Pitbul',
+      content: 'Poszukiwane za zabujstwo ukrainca'
     },
     {
-      title: 'Mountain',
-      imageUrl: 'assets/mountain.jpg',
-      username: '@montainlover',
-      content: 'yeaaaaah  I saw this neat mountain'
-    },
-    {
-      title: 'Neat Biking',
-      imageUrl: 'assets/biking.jpg',
-      username: '@biking',
-      content: ' yeaaaaah I saw this neat biking'
+      title: 'Karolina Lewandowska (niska)',
+      imageUrl: 'assets/3.jpg',
+      username: 'znana jako Ryba',
+      content: ' Poszukiwane za zabujstwo ukrainca'
     },
     
 ]
